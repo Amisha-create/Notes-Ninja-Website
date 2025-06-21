@@ -125,7 +125,7 @@
             <a href="home.jsp">Home</a>
             <a href="subject.jsp">Subjects</a>
             <a href="uploadnotes.jsp">Upload Notes</a>
-            <a href="NotesNinja.jsp">Logout</a>
+            <a href="login.jsp">Logout</a>
         </nav>
     </header>
     
